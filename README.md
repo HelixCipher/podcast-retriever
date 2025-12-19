@@ -53,7 +53,7 @@ Podcast Retriever is a Python-based tool designed to aggregate and consolidate p
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/A-L-E-X-W/podcast-retriever.git
+   git clone https://github.com/HelixCipher/podcast-retriever.git
 
    cd Podcast-retriever
 
